@@ -3471,7 +3471,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.5338644, g: 0.8387576, b: 0.8773585, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -8174,7 +8174,7 @@ MonoBehaviour:
   totalNumberBlock: 113
   killBlocScore: 50
   iniLivesPoint: 3
-  winaudioClip: {fileID: 8300000, guid: a0fbeb571ed114dc29e75de4226e56c5, type: 3}
+  winaudioClip: {fileID: 8300000, guid: 7cc7d37818ed341adae32e6fe9d640b5, type: 3}
 --- !u!1 &742015009
 GameObject:
   m_ObjectHideFlags: 0
